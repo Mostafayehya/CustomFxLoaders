@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<menus>
+    <menu name="File">
+        <menu_item>New</menu_item>
+        <menu_item>Open</menu_item>
+        <menu_item>Save</menu_item>
+    </menu>
+
+    <menu name="Edit">
+        <menu_item>Undo</menu_item>
+        <menu_item>Copy</menu_item>
+        <menu_item>Cut</menu_item>
+    </menu>
+
+    <menu name="Help">
+        <menu_item>Send Feedback</menu_item>
+        <menu_item>View Help</menu_item>
+        <menu_item>About</menu_item>
+    </menu>
+</menus>
